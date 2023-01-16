@@ -10,12 +10,16 @@
   },
   "dependencies": {
     "@ant-design/icons": "^5.0.0",
+    "@reduxjs/toolkit": "^1.9.1",
     "antd": "^5.1.5",
+    "axios": "^1.2.2",
+    "http-proxy-middleware": "^2.0.6",
     "react": "*",
     "react-dom": "*",
-    "react-redux": "*",
+    "react-redux": "^8.0.5",
     "react-router-dom": "*",
-    "redux": "*",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.2",
     "reset-css": "^5.0.1"
   },
   "devDependencies": {
